@@ -31,7 +31,7 @@ A curated list of notable ETL (extract, transform, load) frameworks, libraries a
 
 ## Java
 * [DataPipeLine](https://www.northconcepts.com/) - Java library for running performance oriented flows
-* [GETL](https://sourceforge.net/projects/getl/) - Groovy toolbox for ETL Tasks from practicing architectures
+* [GETL](https://github.com/ascrus/getl) - Groovy toolbox for ETL Tasks from practicing architectures
 * [JSR 352](https://www.jcp.org/en/jsr/detail?id=352) - Java native API for batch processing
 * [Scriptella](http://scriptella.org/) - Java-XML ETL toolbox for every day use.
 * [Spring Batch](http://projects.spring.io/spring-batch/) - ETL on Spring ecosystem
@@ -91,7 +91,7 @@ A curated list of notable ETL (extract, transform, load) frameworks, libraries a
 * http://tech.adroll.com/blog/data/2015/10/15/luigi.html?adrolldev
 
 ## Cloud Services
-* [Alterxy](http://www.alteryx.com/) - Cloud ETL tool with an interface similar to GUI ETL tools.
+* [Alteryx](http://www.alteryx.com/) - Cloud ETL tool with an interface similar to GUI ETL tools.
 * [AWS Data Pipeline](https://aws.amazon.com/datapipeline/) - "a web service that helps you reliably process and move data between different AWS compute and storage services, as well as on-premise data sources, at specified intervals."
 * [AWS Glue](https://aws.amazon.com/glue/) - AWS Glue generates the code (using Python and Spark) to execute your data transformations and data loading processes.
 * [Amazon Simple Workflow Service (SWF)](https://aws.amazon.com/swf/) - "helps developers build, run, and scale background jobs that have parallel or sequential steps. You can think of Amazon SWF as a fully-managed state tracker and task coordinator in the Cloud."
